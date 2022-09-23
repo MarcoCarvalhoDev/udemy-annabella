@@ -4,4 +4,4 @@ Curso ministrado pelos instrutores Jamilton Damasceno e Jorge Sant Ana <br>
 
 ![imagem](print-tela.png)
 
-[Acesse o site aqui!](https://marcocarvalhodev.github.io/udemy-tecblog/)
+[Acesse o site aqui!](https://marcocarvalhodev.github.io/udemy-annabella/)
